@@ -14,8 +14,8 @@ EVEN AFTER I DIE... I WANT TO KEEP REWARDING HIM WITH MY SEED FOR A WHILE! TEN Y
 print("Note that the program will automatically change your input into uppercase since Eren is yelling in the scene.")
 
 mikasa = input("NO! I DON'T WANT THAT! --- ...?! ")
-restofmylife = input("EVEN AFTER I DIE... I WANT --- FOR A WHILE! TEN YEARS, AT LEAST!! ")
-tenyearsatleast = input(templates[2])
+restofmylife = input("I WANT --- FOR THE REST OF MY LIFE! ")
+tenyearsatleast = input("EVEN AFTER I DIE... I WANT --- FOR A WHILE! TEN YEARS, AT LEAST!! ")
 
 mikasa = mikasa.upper()
 restofmylife = restofmylife.upper()
